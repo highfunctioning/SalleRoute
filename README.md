@@ -1,4 +1,4 @@
-# SalleRoute
+# 🚀 SalleRoute
 
 ## Project Overview
 SalleRoute is a project created for GDSC that aims to help students navigate Concordia University's buildings, such as the Hall Building, by providing floor maps and directing them to the correct classrooms.
